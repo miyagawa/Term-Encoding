@@ -47,7 +47,18 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.02",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/Term-Encoding/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/Term-Encoding",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/Term-Encoding.git",
+         "web" : "https://github.com/miyagawa/Term-Encoding"
+      }
+   },
+   "version" : "0.03",
    "x_generated_by_perl" : "v5.20.1",
    "x_serialization_backend" : "Cpanel::JSON::XS version 4.09",
    "x_static_install" : 0

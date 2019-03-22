@@ -1,7 +1,7 @@
 package Term::Encoding;
 
 use strict;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use base qw(Exporter);
 our @EXPORT_OK = qw(term_encoding);
