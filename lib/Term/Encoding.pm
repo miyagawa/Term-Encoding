@@ -82,6 +82,10 @@ Tatsuhiko Miyagawa E<lt>miyagawa@bulknews.netE<gt>
 
 Audrey Tang E<lt>audreyt@audreyt.orgE<gt>
 
+=head1 COPYRIGHT
+
+Copyright 2019 Tatsuhiko Miyagawa
+
 =head1 LICENSE
 
 This library is free software; you can redistribute it and/or modify
